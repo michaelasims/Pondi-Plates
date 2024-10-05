@@ -1,0 +1,63 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .centered {
+    position: absolute;
+    font-size: 95px;
+    color:aliceblue;
+    font-style:italic;
+    font-weight: bold;   
+    top: 50px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  body
+  {
+    background-color:rgb(181, 123, 181);
+  
+  }
+  p
+  {
+    color: white;
+    font-size: xxx-large;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+  }
+  p1
+  {
+    color: black;
+    font-size:x-large;
+    font-style: italic;
+    font-weight: bold;
+  }
+  p2
+  {
+    color: black;
+    font-size:small;
+    font-style: oblique;
+    font-weight:lighter;
+  }
+
+  .navbar{
+    background-color:rgb(217, 182, 235);
+    margin-top: 10px;
+    width: 200%;;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  button{
+    width: 292.5px;
+    height: 50px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+  }
+  textarea{
+    width: 1160px;
+    height: 50px;
+    margin-top: 10px;
+
+    background-color: hotpink;
+  }
